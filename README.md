@@ -6,7 +6,7 @@
 
 Designed and developed an application for internal team task management with a unique interface.
 
-Deployed project: [[https://vasilievkosta.github.io/organizer/#/login)](https://vasilievkosta.github.io/organizer/#/login))
+Deployed project: [https://vasilievkosta.github.io/organizer](https://vasilievkosta.github.io/organizer/#/login)
 
 ## Technology Stack
 
